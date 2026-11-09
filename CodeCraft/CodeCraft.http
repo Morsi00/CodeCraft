@@ -1,0 +1,6 @@
+@CodeCraft_HostAddress = http://localhost:5261
+
+GET {{CodeCraft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
