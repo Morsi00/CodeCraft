@@ -7,5 +7,7 @@ namespace CodeCraft.Controllers.LandingPages
     [ApiController]
     public class Values2Controller : ControllerBase
     {
+
     }
 }
+
